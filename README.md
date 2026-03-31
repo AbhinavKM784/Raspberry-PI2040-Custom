@@ -1,10 +1,6 @@
 # Raspberry-PI2040-Custom
 
 
-Here’s a **GitHub-style project description** with battery power included. You can paste it directly into your README.
-
----
-
 ## Custom RP2040 Development Board
 
 This project is a **custom-designed development board based on the Raspberry Pi RP2040 microcontroller**, built for embedded systems experimentation, firmware development, and learning PCB design. The board integrates the RP2040 dual-core ARM Cortex-M0+ microcontroller with carefully designed power management, USB connectivity, and accessible GPIO pins.
