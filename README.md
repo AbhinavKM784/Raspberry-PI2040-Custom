@@ -36,7 +36,7 @@ This project is designed as a **learning and prototyping platform** for:
 ---
 <img width="960" height="1159" alt="image" src="https://github.com/user-attachments/assets/9bf0f43b-956f-4651-b1e1-8354bde4c1fe" />
 ------
-<img width="679" height="823" alt="image" src="https://github.com/user-attachments/assets/ad769d04-a75b-4a40-bc5a-a2f93a82bce6" />
+<img width="605" height="686" alt="image" src="https://github.com/user-attachments/assets/d776a02e-8efe-4a30-a1e5-ab092f76a683" />
 
 
 
